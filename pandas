@@ -2,7 +2,6 @@ import pandas as pd
 # Read the CSV file into a DataFrame
 df = pd.read_csv('your_file.csv')
 
-
 import pandas as pd
 # Create a Series from a list
 data = [10, 20, 30, 40, 50]
